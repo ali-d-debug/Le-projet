@@ -1,8 +1,8 @@
 [my project]
-name = "Le projet"
+name = "my-python-project"
 version = "0.1.0"
 description = "A simple arithmetic operations module"
-authors = [{name = "Ali DIAKITE", email = "ali.diakite@estaca.eu"}]
+authors = [{name = "Your Name", email = "your.email@example.com"}]
 license = "MIT"
 
 dependencies = [
@@ -13,7 +13,3 @@ dependencies = [
 [build-system]
 requires = ["setuptools>=42"]
 build-backend = "setuptools.build_meta"
-
-[tool.pytest.ini_options]
-addopts = "--cov=src --cov-report=term-missing"
-testpaths = ["tests"]
