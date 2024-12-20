@@ -1,8 +1,8 @@
-[my project]
-name = "my-python-project"
+[Le projet]
+name = "Le projet"
 version = "0.1.0"
 description = "A simple arithmetic operations module"
-authors = [{name = "Your Name", email = "your.email@example.com"}]
+authors = [{name = "Ali DIAKITE", email = "ali.diakite@estaca.eu"}]
 license = "MIT"
 
 dependencies = [
